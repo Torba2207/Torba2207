@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MBTI Social Service](https://github.com/Torba2207/MBTI-Social-Service)
 
-- and on [Notepad-Speech-To-Text](https://github.com/Midax2/Notepad-Speech-To-Text)
+- Recently finished [Notepad-Speech-To-Text](https://github.com/Midax2/Notepad-Speech-To-Text)
 
 - 🌱 I’m currently learning **Kotlin, Jetpack Compose**
 
