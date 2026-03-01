@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleksandr Nychyporchuk</h1>
-<h3 align="center">Computer Engineering Student | Full-Stack Developer | AI & Automation Enthusiast</h3>
+<h3 align="center">Bachelor in Computer Engineering | Full-Stack Developer | AI & Automation Enthusiast</h3>
 
-- 🔭 I’m currently working on [MBTI Social Service](https://github.com/Torba2207/MBTI-Social-Service)
-
-- Recently finished [Notepad-Speech-To-Text](https://github.com/Midax2/Notepad-Speech-To-Text)
+- Recently finished [Notepad-Speech-To-Text](https://github.com/Midax2/Notepad-Speech-To-Text) and [MBTI Social Service](https://github.com/Torba2207/MBTI-Social-Service)
 
 - 🌱 I’m currently learning **Kotlin, Jetpack Compose**
 
