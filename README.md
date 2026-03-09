@@ -3,7 +3,9 @@
 
 - Recently finished [Notepad-Speech-To-Text](https://github.com/Midax2/Notepad-Speech-To-Text) and [MBTI Social Service](https://github.com/Torba2207/MBTI-Social-Service)
 
-- 🌱 I’m currently learning **Kotlin, Jetpack Compose**
+- 🌱 I’m currently learning **Kubernetes**
+
+- :triangular_ruler: I'm currently working on [The-effect-of-service-mesh-on-microservice-application-performance](https://github.com/Torba2207/The-effect-of-service-mesh-on-microservice-application-performance)
 
 - 💬 Ask me about **React, AI/ML**
 
